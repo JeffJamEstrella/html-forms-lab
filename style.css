@@ -5,6 +5,14 @@ form * {
 }
 
 #checkbox {
-  display:inline;
+  display:inline-block;
 
+}
+
+label {
+  display: inline;
+}
+
+input {
+  display: inline;
 }
